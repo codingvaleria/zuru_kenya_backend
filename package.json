@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/codingvaleria/zuru_kenya_backend/issues"
   },
-  "homepage": "https://github.com/codingvaleria/zuru_kenya_backend#readme"
+  "homepage": "https://github.com/codingvaleria/zuru_kenya_backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json": "^11.0.0",
+    "json-server": "^0.17.3",
+    "serve": "^14.2.0"
+  }
 }
